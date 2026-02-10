@@ -43,7 +43,7 @@ Terms_of_Use.md: Licensing and usage policies.
 
 The executable .json workflow file and the pre-configured n8n template are available exclusively on Etsy.
 
-👉 Buy the LinkedIn AI Agent on Etsy
+👉 [Buy the LinkedIn AI Agent on Etsy](https://www.etsy.com/hk-en/listing/4455438140/ai-job-application-automation-n8n-apify)
 
 **Why buy the template?**
 **Plug & Play**: Import the JSON and start applying in minutes.
