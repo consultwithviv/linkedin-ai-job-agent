@@ -15,7 +15,8 @@ An enterprise-grade n8n workflow designed to automate the most time-consuming pa
 
 **🏗️ The Architecture**
 
-![LinkedIn AI Agent Architecture](./Architecture%20Diagram.png) 
+<img width="939" height="214" alt="Architecture_Diagram" src="https://github.com/user-attachments/assets/1c78f4e0-29ed-4816-9b72-c304511e6356" />
+
 The system follows a modular logic flow:
 
 Trigger: Manual or scheduled search.
