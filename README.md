@@ -1,5 +1,5 @@
 # LinkedIn AI Agent - Automated Your Job Application
-An enterprise-grade n8n workflow designed to automate the most time-consuming parts of the job hunt. This agent scrapes LinkedIn, analyzes job relevance using Gemini 2.5 Flash / 3 Flash, and automatically generates tailored resumes and cover letters.
+An enterprise-grade n8n workflow designed to automate the most time-consuming parts of the job hunt. This agent scrapes LinkedIn, analyzes job relevance using Gemini 3 Flash, and automatically generates tailored resumes and cover letters.
 
 🌟 **Key Features**
 
